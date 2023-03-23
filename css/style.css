@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+h1, h2, h3 {
+    margin-top: 0;
+    font-family: 'Space Mono', monospace;
+}
+p {
+    font-family: 'Mulish', sans-serif;
+}
+.pbottom {
+    margin-bottom: 0;
+}
+.top-container {
+    background-color: #B9F3FC;
+    margin: auto;
+    padding-top: 150px;
+    }
+.middle-container {
+    padding-top: 100px;
+    background-color: #AEE2FF;
+}
+.bottom-container {
+    background-color: #537FE7;
+    font-size: 1.5em;
+    padding-top: 20px;
+}
+.pro {
+    text-decoration: underline;
+}
+.center {
+    margin: auto;
+    text-align: center;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 350px;
+    top:50px ;
+}
+.bottom-cloud {
+    position: absolute;
+}
+.skills .study {
+   border-radius: 900px;
+   width: 500px;
+   height: 500px;
+}
+.myphoto {
+    border-radius: 900px;
+    width: 500px;
+    height: 500px;
+}
+.skills .uk {
+    width: 500px;
+    height: 500px;
+}
+.skills .cod {
+    border-radius: 900px;
+    width: 500px;
+    height: 500px;
+}
+.underline {
+    text-decoration: underline;
+}
+.btn {
+    padding: 20px 20px;
+    text-align: center;
+    color: #3A98B9;
+    border-radius: 7px;
+    background-color: #8DCBE6;
+    display: inline-block;
+    margin-bottom: 35px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+.btn-img {
+    position: relative;
+    top: 2px;
+    right: 5px;
+}
+.contact-me > a:hover {
+    background-color: #7fb5c7;
+}
+.footer-link {
+    margin-right: 100px;
+    font-family: 'Mulish', sans-serif;
+}
+.footer-link:hover {
+    color: #7fb5c7;
+}
+.pbottom {
+    position: relative;
+    padding-top: 15px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 15px;
+}
